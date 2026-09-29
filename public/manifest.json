@@ -1,0 +1,11 @@
+{
+  "author": "",
+  "appId": "6ab22fc30a6c5337c16db2e2",
+  "config": {
+    "fields": {
+      "workflowId": {
+        "type": "string"
+      }
+    }
+  }
+}
